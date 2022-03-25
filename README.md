@@ -27,5 +27,23 @@ To run your project, navigate to the directory and run one of the following yarn
 - yarn web
 ```
 
-### Login de App
+### Funciones de App
+
+
+### Inicio de App
 ![](img/1.png)
+
+### Apretar + de App
+![](img/2.png)
+
+### Tarea asigmada de App
+![](img/3.png)
+
+### Tarea eliminada de App
+![](img/4.png)
+
+### Video desde el simulador
+![](img/video.gif)
+
+
+
