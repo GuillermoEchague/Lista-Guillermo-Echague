@@ -36,7 +36,7 @@ To run your project, navigate to the directory and run one of the following yarn
 ### Apretar + de App
 ![](img/2.png)
 
-### Tarea asigmada de App
+### Tarea asignada de App
 ![](img/3.png)
 
 ### Tarea eliminada de App
